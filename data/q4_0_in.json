@@ -1,0 +1,1 @@
+{"verify": {"num_epoch": 1, "train_size": 3000, "test_size": 1000}, "input": {"num_epoch": 1, "learning_rate": 0.01, "init_scheme": "zero", "num_hidden": 3}}

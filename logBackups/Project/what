@@ -1,0 +1,127 @@
+/usr/local/bin/python3.7 /Applications/PyCharm.app/Contents/helpers/pydev/pydevconsole.py --mode=client --port=61398
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project'])
+PyDev console: starting.
+Python 3.7.2 (default, Jan 13 2019, 12:50:01)
+[Clang 10.0.0 (clang-1000.11.45.5)] on darwin
+runfile('/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/figure.py', wdir='/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project')
+0.1
+0.0007
+300
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.76
+trained 2
+predicted 2
+2555 561
+score = 0.77
+0.0007
+2855
+trained
+predicted
+score = 0.77
+trained 2
+predicted 2
+145 75
+score = 0.76
+0.0007
+3000
+confusion matrix:
+  [[90  0  0  1  0  6  2  0  1  0]
+ [ 0 99  0  1  0  0  0  0  0  0]
+ [ 1  4 83  4  4  0  1  0  3  0]
+ [ 0  6  7 81  0  3  0  0  2  1]
+ [ 0  4  1  0 92  1  0  0  0  2]
+ [ 0  8  3  5  4 79  1  0  0  0]
+ [ 0  4  8  0  2  4 82  0  0  0]
+ [ 1 11  0  3 12  1  0 69  0  3]
+ [ 1 11  1 28  1  8  0  0 49  1]
+ [ 1  4  1  6 46  1  0  6  0 35]]
+TPR [0.9  0.99 0.83 0.81 0.92 0.79 0.82 0.69 0.49 0.35]
+TNR [0.99555556 0.94222222 0.97666667 0.94666667 0.92333333 0.97333333
+ 0.99555556 0.99333333 0.99333333 0.99222222]
+PPV [0.95744681 0.65562914 0.79807692 0.62790698 0.57142857 0.76699029
+ 0.95348837 0.92       0.89090909 0.83333333]
+NPV [0.98896247 0.99882214 0.98102679 0.97818599 0.99046484 0.97658863
+ 0.98030635 0.96648649 0.94603175 0.93215031]
+FPR [0.00444444 0.05777778 0.02333333 0.05333333 0.07666667 0.02666667
+ 0.00444444 0.00666667 0.00666667 0.00777778]
+FNR [0.1  0.01 0.17 0.19 0.08 0.21 0.18 0.31 0.51 0.65]
+FDR [0.04255319 0.34437086 0.20192308 0.37209302 0.42857143 0.23300971
+ 0.04651163 0.08       0.10909091 0.16666667]
+ACC [0.986 0.947 0.962 0.933 0.923 0.955 0.978 0.963 0.943 0.928]
+0.2
+0.0007
+600
+trained
+predicted
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+score = 0.76
+trained 2
+predicted 2
+2311 157
+score = 0.74
+0.0007
+2911
+trained
+predicted
+score = 0.75
+trained 2
+predicted 2
+89 39
+score = 0.74
+0.0007
+3000
+confusion matrix:
+  [[90  1  0  1  0  5  2  0  1  0]
+ [ 0 99  0  1  0  0  0  0  0  0]
+ [ 2  7 78  4  6  0  1  0  2  0]
+ [ 0  6  4 83  0  3  1  0  2  1]
+ [ 0  4  0  0 92  1  0  0  0  3]
+ [ 0  7  2  3  8 79  1  0  0  0]
+ [ 1  3  8  0  2  5 81  0  0  0]
+ [ 1 11  1  3 15  1  0 65  0  3]
+ [ 1 15  1 36  1  6  0  0 40  0]
+ [ 1  7  0  5 44  0  0  5  0 38]]
+TPR [0.9  0.99 0.78 0.83 0.92 0.79 0.81 0.65 0.4  0.38]
+TNR [0.99333333 0.93222222 0.98222222 0.94111111 0.91555556 0.97666667
+ 0.99444444 0.99444444 0.99444444 0.99222222]
+PPV [0.9375     0.61875    0.82978723 0.61029412 0.54761905 0.79
+ 0.94186047 0.92857143 0.88888889 0.84444444]
+NPV [0.98893805 0.99880952 0.97571744 0.98032407 0.99038462 0.97666667
+ 0.97921225 0.96236559 0.93717277 0.93507853]
+FPR [0.00666667 0.06777778 0.01777778 0.05888889 0.08444444 0.02333333
+ 0.00555556 0.00555556 0.00555556 0.00777778]
+FNR [0.1  0.01 0.22 0.17 0.08 0.21 0.19 0.35 0.6  0.62]
+FDR [0.0625     0.38125    0.17021277 0.38970588 0.45238095 0.21
+ 0.05813953 0.07142857 0.11111111 0.15555556]
+ACC [0.984 0.938 0.962 0.93  0.916 0.958 0.976 0.96  0.935 0.931]
+0.3
+0.0007
+900
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.75
+trained 2
+predicted 2
+2057 71
+score = 0.73
+0.0007
+2957
+trained
+predicted
+score = 0.74
+trained 2
+predicted 2
+42 19
+score = 0.74
+0.0007
+2999
+trained
+predicted
+score = 0.74

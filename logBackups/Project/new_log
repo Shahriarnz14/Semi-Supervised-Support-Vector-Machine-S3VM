@@ -1,0 +1,405 @@
+/usr/local/bin/python3.7 "/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/s3vm.py"
+0.0001
+600
+trained
+predicted
+score = 0.54
+trained 2
+predicted 2
+2018 898
+score = 0.48
+0.0001
+2618
+trained
+predicted
+score = 0.44
+trained 2
+predicted 2
+355 340
+score = 0.40
+0.0001
+2973
+trained
+predicted
+score = 0.40
+trained 2
+predicted 2
+25 25
+score = 0.39
+0.0001
+2998
+trained
+predicted
+score = 0.39
+/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/s3vm.py:149: RuntimeWarning: invalid value encountered in true_divide
+trained 2
+  PPV = TP / (TP + FP)
+predicted 2
+0 0
+score = 0.39
+confusion matrix:
+  [[ 84   0   0   0  16   0   0   0   0   0]
+ [  0  93   0   0   7   0   0   0   0   0]
+ [  0   1  67   0  32   0   0   0   0   0]
+ [  0   0  18   6  76   0   0   0   0   0]
+ [  0   0   0   0 100   0   0   0   0   0]
+ [  2   1   1   0  96   0   0   0   0   0]
+/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/s3vm.py:161: RuntimeWarning: invalid value encountered in true_divide
+ [  4   1   3   0  57   0  35   0   0   0]
+  FDR = FP / (TP + FP)
+ [  1   1   0   0  90   0   0   8   0   0]
+ [  1   2   2   0  95   0   0   0   0   0]
+ [  1   2   0   0  97   0   0   0   0   0]]
+TPR [0.84 0.93 0.67 0.06 1.   0.   0.35 0.08 0.   0.  ]
+TNR [0.99       0.99111111 0.97333333 1.         0.37111111 1.
+ 1.         1.         1.         1.        ]
+PPV [0.90322581 0.92079208 0.73626374 1.         0.15015015        nan
+ 1.         1.                nan        nan]
+NPV [0.98235943 0.99221357 0.96369637 0.9054326  1.         0.9
+ 0.93264249 0.90725806 0.9        0.9       ]
+FPR [0.01       0.00888889 0.02666667 0.         0.62888889 0.
+ 0.         0.         0.         0.        ]
+FNR [0.16 0.07 0.33 0.94 0.   1.   0.65 0.92 1.   1.  ]
+FDR [0.09677419 0.07920792 0.26373626 0.         0.84984985        nan
+ 0.         0.                nan        nan]
+ACC [0.975 0.985 0.943 0.906 0.434 0.9   0.935 0.908 0.9   0.9  ]
+
+
+
+
+
+0.0002
+600
+trained
+predicted
+score = 0.68
+trained 2
+predicted 2
+2229 764
+score = 0.66
+0.0002
+2829
+trained
+predicted
+score = 0.66
+trained 2
+predicted 2
+165 109
+score = 0.65
+0.0002
+2994
+trained
+predicted
+score = 0.65
+trained 2
+predicted 2
+6 6
+score = 0.65
+0.0002
+3000
+/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/s3vm.py:149: RuntimeWarning: invalid value encountered in true_divide
+  PPV = TP / (TP + FP)
+/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/s3vm.py:161: RuntimeWarning: invalid value encountered in true_divide
+  FDR = FP / (TP + FP)
+confusion matrix:
+  [[90  0  0  0  0  9  1  0  0  0]
+ [ 0 98  0  1  0  1  0  0  0  0]
+ [ 0  5 74  4 11  5  1  0  0  0]
+ [ 0 11  5 70  1 12  1  0  0  0]
+ [ 0  4  0  0 95  1  0  0  0  0]
+ [ 0  9  2  5  8 75  1  0  0  0]
+ [ 1  3  8  0  3  4 81  0  0  0]
+ [ 1  8  0  0 21  0  0 70  0  0]
+ [ 2 12  2 17  9 58  0  0  0  0]
+ [ 1  6  0  2 79  3  0  9  0  0]]
+TPR [0.9  0.98 0.74 0.7  0.95 0.75 0.81 0.7  0.   0.  ]
+TNR [0.99444444 0.93555556 0.98111111 0.96777778 0.85333333 0.89666667
+ 0.99555556 0.99       1.         1.        ]
+PPV [0.94736842 0.62820513 0.81318681 0.70707071 0.4185022  0.44642857
+ 0.95294118 0.88607595        nan        nan]
+NPV [0.98895028 0.99763033 0.97139714 0.96670366 0.99353169 0.96995192
+ 0.97923497 0.96742671 0.9        0.9       ]
+FPR [0.00555556 0.06444444 0.01888889 0.03222222 0.14666667 0.10333333
+ 0.00444444 0.01       0.         0.        ]
+FNR [0.1  0.02 0.26 0.3  0.05 0.25 0.19 0.3  1.   1.  ]
+FDR [0.05263158 0.37179487 0.18681319 0.29292929 0.5814978  0.55357143
+ 0.04705882 0.11392405        nan        nan]
+ACC [0.985 0.94  0.957 0.941 0.863 0.882 0.977 0.961 0.9   0.9  ]
+
+
+
+
+
+0.0005
+600
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.84
+trained 2
+predicted 2
+2323 494
+score = 0.86
+0.0005
+2923
+trained
+predicted
+score = 0.86
+trained 2
+predicted 2
+74 56
+score = 0.86
+0.0005
+2997
+trained
+predicted
+score = 0.86
+trained 2
+predicted 2
+3 2
+score = 0.86
+0.0005
+3000
+confusion matrix:
+  [[91  0  0  0  0  5  3  0  1  0]
+ [ 0 98  0  1  0  1  0  0  0  0]
+ [ 0  2 88  1  3  0  1  0  5  0]
+ [ 0  4  5 82  0  3  1  1  3  1]
+ [ 0  3  0  0 95  0  0  0  0  2]
+ [ 0  2  3  1  2 89  1  0  0  2]
+ [ 0  1  8  0  2  6 83  0  0  0]
+ [ 1  4  1  0  1  0  0 83  0 10]
+ [ 1  4  2  9  1  6  0  0 76  1]
+ [ 1  5  1  2  7  2  0  2  0 80]]
+TPR [0.91 0.98 0.88 0.82 0.95 0.89 0.83 0.83 0.76 0.8 ]
+TNR [0.99666667 0.97222222 0.97777778 0.98444444 0.98222222 0.97444444
+ 0.99333333 0.99666667 0.99       0.98222222]
+PPV [0.96808511 0.79674797 0.81481481 0.85416667 0.85585586 0.79464286
+ 0.93258427 0.96511628 0.89411765 0.83333333]
+NPV [0.99006623 0.9977195  0.98654709 0.9800885  0.9943757  0.98761261
+ 0.98133919 0.98140044 0.97377049 0.97787611]
+FPR [0.00333333 0.02777778 0.02222222 0.01555556 0.01777778 0.02555556
+ 0.00666667 0.00333333 0.01       0.01777778]
+FNR [0.09 0.02 0.12 0.18 0.05 0.11 0.17 0.17 0.24 0.2 ]
+FDR [0.03191489 0.20325203 0.18518519 0.14583333 0.14414414 0.20535714
+ 0.06741573 0.03488372 0.10588235 0.16666667]
+ACC [0.988 0.973 0.968 0.968 0.979 0.966 0.977 0.98  0.967 0.964]
+
+
+
+
+
+0.0007
+600
+trained
+predicted
+score = 0.85
+trained 2
+predicted 2
+2323 60
+score = 0.87
+0.0007
+2923
+trained
+predicted
+score = 0.87
+trained 2
+predicted 2
+74 20
+score = 0.88
+0.0007
+2997
+trained
+predicted
+score = 0.88
+trained 2
+predicted 2
+3 1
+score = 0.88
+0.0007
+3000
+confusion matrix:
+  [[91  0  0  0  0  4  3  0  2  0]
+ [ 0 98  1  1  0  0  0  0  0  0]
+ [ 0  2 90  1  1  0  1  0  5  0]
+ [ 0  2  6 83  0  4  1  0  3  1]
+ [ 0  3  0  0 95  0  0  0  0  2]
+ [ 0  2  2  1  2 90  1  0  0  2]
+ [ 2  0  8  0  2  5 83  0  0  0]
+ [ 1  3  0  0  1  0  0 85  0 10]
+ [ 1  4  0  9  0  6  0  0 79  1]
+ [ 1  4  1  2  5  2  0  2  0 83]]
+TPR [0.91 0.98 0.9  0.83 0.95 0.9  0.83 0.85 0.79 0.83]
+TNR [0.99444444 0.97777778 0.98       0.98444444 0.98777778 0.97666667
+ 0.99333333 0.99777778 0.98888889 0.98222222]
+PPV [0.94791667 0.83050847 0.83333333 0.8556701  0.89622642 0.81081081
+ 0.93258427 0.97701149 0.88764045 0.83838384]
+NPV [0.99004425 0.99773243 0.98878924 0.98117386 0.99440716 0.98875141
+ 0.98133919 0.98357065 0.97694841 0.98113208]
+FPR [0.00555556 0.02222222 0.02       0.01555556 0.01222222 0.02333333
+ 0.00666667 0.00222222 0.01111111 0.01777778]
+FNR [0.09 0.02 0.1  0.17 0.05 0.1  0.17 0.15 0.21 0.17]
+FDR [0.05208333 0.16949153 0.16666667 0.1443299  0.10377358 0.18918919
+ 0.06741573 0.02298851 0.11235955 0.16161616]
+ACC [0.986 0.978 0.972 0.969 0.984 0.969 0.977 0.983 0.969 0.967]
+
+
+
+
+
+0.002
+600
+trained
+predicted
+score = 0.87
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained 2
+predicted 2
+2361 123
+score = 0.87
+0.002
+2961
+trained
+predicted
+score = 0.88
+trained 2
+predicted 2
+39 14
+score = 0.87
+0.002
+3000
+confusion matrix:
+  [[93  0  0  0  0  3  3  0  1  0]
+ [ 0 97  0  1  0  0  0  0  2  0]
+ [ 1  2 90  1  0  0  1  2  3  0]
+ [ 0  3  6 80  0  4  1  1  4  1]
+ [ 0  2  1  0 92  1  0  0  1  3]
+ [ 1  5  1  1  3 84  1  0  2  2]
+ [ 2  0  7  0  3  5 83  0  0  0]
+ [ 1  1  1  0  2  0  0 88  0  7]
+ [ 1  4  0  3  1  4  0  0 85  2]
+ [ 1  2  2  2  8  2  0  4  1 78]]
+TPR [0.93 0.97 0.9  0.8  0.92 0.84 0.83 0.88 0.85 0.78]
+TNR [0.99222222 0.97888889 0.98       0.99111111 0.98111111 0.97888889
+ 0.99333333 0.99222222 0.98444444 0.98333333]
+PPV [0.93       0.8362069  0.83333333 0.90909091 0.8440367  0.81553398
+ 0.93258427 0.92631579 0.85858586 0.83870968]
+NPV [0.99222222 0.99660633 0.98878924 0.97807018 0.99102132 0.98216276
+ 0.98133919 0.98674033 0.98335183 0.97574421]
+FPR [0.00777778 0.02111111 0.02       0.00888889 0.01888889 0.02111111
+ 0.00666667 0.00777778 0.01555556 0.01666667]
+FNR [0.07 0.03 0.1  0.2  0.08 0.16 0.17 0.12 0.15 0.22]
+FDR [0.07       0.1637931  0.16666667 0.09090909 0.1559633  0.18446602
+ 0.06741573 0.07368421 0.14141414 0.16129032]
+ACC [0.986 0.978 0.972 0.972 0.975 0.965 0.977 0.981 0.971 0.963]
+
+
+
+
+
+0.005
+600
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.87
+trained 2
+predicted 2
+2369 95
+score = 0.87
+0.005
+2969
+trained
+predicted
+score = 0.87
+trained 2
+predicted 2
+31 7
+score = 0.87
+0.005
+3000
+confusion matrix:
+  [[95  0  0  1  0  1  1  0  2  0]
+ [ 0 97  1  1  0  0  0  0  1  0]
+ [ 2  1 88  2  0  0  1  2  4  0]
+ [ 0  3  6 82  0  4  0  0  5  0]
+ [ 0  3  1  0 93  0  0  0  1  2]
+ [ 1  6  0  2  3 84  1  0  2  1]
+ [ 3  0  6  0  2  4 85  0  0  0]
+ [ 1  0  0  0  2  2  0 88  0  7]
+ [ 1  3  2  8  0  6  0  0 79  1]
+ [ 1  3  0  4  8  0  0  2  3 79]]
+TPR [0.95 0.97 0.88 0.82 0.93 0.84 0.85 0.88 0.79 0.79]
+TNR [0.99       0.97888889 0.98222222 0.98       0.98333333 0.98111111
+ 0.99666667 0.99555556 0.98       0.98777778]
+PPV [0.91346154 0.8362069  0.84615385 0.82       0.86111111 0.83168317
+ 0.96590909 0.95652174 0.81443299 0.87777778]
+NPV [0.99441964 0.99660633 0.98660714 0.98       0.99215247 0.98220245
+ 0.98355263 0.98678414 0.97674419 0.97692308]
+FPR [0.01       0.02111111 0.01777778 0.02       0.01666667 0.01888889
+ 0.00333333 0.00444444 0.02       0.01222222]
+FNR [0.05 0.03 0.12 0.18 0.07 0.16 0.15 0.12 0.21 0.21]
+FDR [0.08653846 0.1637931  0.15384615 0.18       0.13888889 0.16831683
+ 0.03409091 0.04347826 0.18556701 0.12222222]
+ACC [0.986 0.978 0.972 0.964 0.978 0.967 0.982 0.984 0.961 0.968]
+
+
+
+
+
+0.007
+600
+trained
+predicted
+score = 0.87
+/usr/local/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained 2
+predicted 2
+2382 57
+score = 0.87
+0.007
+2982
+trained
+predicted
+score = 0.88
+trained 2
+predicted 2
+18 5
+score = 0.87
+0.007
+3000
+confusion matrix:
+  [[97  0  0  1  0  2  0  0  0  0]
+ [ 0 97  1  1  0  0  0  0  1  0]
+ [ 2  1 87  3  0  0  0  2  5  0]
+ [ 0  4  6 81  0  3  0  0  6  0]
+ [ 0  2  0  0 94  1  0  0  1  2]
+ [ 1  5  0  2  4 85  1  0  1  1]
+ [ 3  1  5  0  2  4 84  0  1  0]
+ [ 1  1  0  0  1  2  0 85  1  9]
+ [ 2  4  2  6  0  2  0  0 83  1]
+ [ 1  4  0  4  7  0  0  1  2 81]]
+TPR [0.97 0.97 0.87 0.81 0.94 0.85 0.84 0.85 0.83 0.81]
+TNR [0.98888889 0.97555556 0.98444444 0.98111111 0.98444444 0.98444444
+ 0.99888889 0.99666667 0.98       0.98555556]
+PPV [0.90654206 0.81512605 0.86138614 0.82653061 0.87037037 0.85858586
+ 0.98823529 0.96590909 0.82178218 0.86170213]
+NPV [0.99664054 0.99659478 0.98553949 0.9789357  0.99327354 0.98335183
+ 0.98251366 0.98355263 0.9810901  0.9790287 ]
+FPR [0.01111111 0.02444444 0.01555556 0.01888889 0.01555556 0.01555556
+ 0.00111111 0.00333333 0.02       0.01444444]
+FNR [0.03 0.03 0.13 0.19 0.06 0.15 0.16 0.15 0.17 0.19]
+FDR [0.09345794 0.18487395 0.13861386 0.17346939 0.12962963 0.14141414
+ 0.01176471 0.03409091 0.17821782 0.13829787]
+ACC [0.987 0.975 0.973 0.964 0.98  0.971 0.983 0.982 0.965 0.968]
+
+
+
+
+
+
+Process finished with exit code 0

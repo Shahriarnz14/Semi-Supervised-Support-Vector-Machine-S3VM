@@ -1,0 +1,364 @@
+/usr/bin/python2.7 "/Users/mohsen/Library/Mobile Documents/com~apple~CloudDocs/CMU/Courses/Machine Learning/Project/projectp2/qns3vm/qns3vm.py"
+01
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.636674165726  seconds
+Classification error of QN-S3VM:  0.0
+02
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.831590890884  seconds
+Classification error of QN-S3VM:  0.04
+03
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.786865949631  seconds
+Classification error of QN-S3VM:  0.03
+04
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.765843153  seconds
+Classification error of QN-S3VM:  0.025
+05
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.832136154175  seconds
+Classification error of QN-S3VM:  0.06
+06
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.776171922684  seconds
+Classification error of QN-S3VM:  0.03
+07
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.763037919998  seconds
+Classification error of QN-S3VM:  0.02
+08
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.774678945541  seconds
+Classification error of QN-S3VM:  0.045
+09
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.841289997101  seconds
+Classification error of QN-S3VM:  0.015
+12
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.810515880585  seconds
+Classification error of QN-S3VM:  0.045
+13
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.738139152527  seconds
+Classification error of QN-S3VM:  0.03
+14
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.724379062653  seconds
+Classification error of QN-S3VM:  0.055
+15
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.757023096085  seconds
+Classification error of QN-S3VM:  0.015
+16
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.777327060699  seconds
+Classification error of QN-S3VM:  0.015
+17
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.773411989212  seconds
+Classification error of QN-S3VM:  0.015
+18
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.807682991028  seconds
+Classification error of QN-S3VM:  0.035
+19
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.66584610939  seconds
+Classification error of QN-S3VM:  0.025
+23
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.822288036346  seconds
+Classification error of QN-S3VM:  0.12
+24
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.859039783478  seconds
+Classification error of QN-S3VM:  0.065
+25
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.887508869171  seconds
+Classification error of QN-S3VM:  0.05
+26
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.791589021683  seconds
+Classification error of QN-S3VM:  0.07
+27
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.793612003326  seconds
+Classification error of QN-S3VM:  0.065
+28
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.836944103241  seconds
+Classification error of QN-S3VM:  0.095
+29
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.818835020065  seconds
+Classification error of QN-S3VM:  0.05
+34
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.807610034943  seconds
+Classification error of QN-S3VM:  0.035
+35
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.893354892731  seconds
+Classification error of QN-S3VM:  0.12
+36
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.795393228531  seconds
+Classification error of QN-S3VM:  0.025
+37
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.810012102127  seconds
+Classification error of QN-S3VM:  0.03
+38
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.797101974487  seconds
+Classification error of QN-S3VM:  0.065
+39
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.798619031906  seconds
+Classification error of QN-S3VM:  0.045
+45
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.8791680336  seconds
+Classification error of QN-S3VM:  0.05
+46
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.793344020844  seconds
+Classification error of QN-S3VM:  0.025
+47
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.763334989548  seconds
+Classification error of QN-S3VM:  0.055
+48
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.735482931137  seconds
+Classification error of QN-S3VM:  0.11
+49
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.795540094376  seconds
+Classification error of QN-S3VM:  0.085
+56
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.820209026337  seconds
+Classification error of QN-S3VM:  0.035
+57
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.842850923538  seconds
+Classification error of QN-S3VM:  0.015
+58
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.828893184662  seconds
+Classification error of QN-S3VM:  0.07
+59
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.806239128113  seconds
+Classification error of QN-S3VM:  0.075
+67
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.765002965927  seconds
+Classification error of QN-S3VM:  0.0
+68
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.822554111481  seconds
+Classification error of QN-S3VM:  0.03
+69
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.81293296814  seconds
+Classification error of QN-S3VM:  0.0
+78
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.818998098373  seconds
+Classification error of QN-S3VM:  0.015
+79
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.791756868362  seconds
+Classification error of QN-S3VM:  0.16
+89
+
+Dense gaussian data set instance
+Number of labeled patterns:  30
+Number of unlabeled patterns:  570
+Number of test patterns:  200
+Time needed to compute the model:  0.853948116302  seconds
+Classification error of QN-S3VM:  0.05
+
+
+Process finished with exit code 0

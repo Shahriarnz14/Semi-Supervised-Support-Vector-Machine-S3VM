@@ -1,0 +1,910 @@
+0.0001
+200
+Counter({2: 25, 4: 24, 5: 23, 3: 21, 1: 21, 0: 19, 6: 19, 8: 18, 7: 17, 9: 13})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.78
+0.9628118859438967
+29 0
+0.0001
+229
+Counter({2: 43, 5: 26, 0: 24, 4: 24, 6: 22, 3: 21, 1: 21, 8: 18, 7: 17, 9: 13})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.78
+0.9511766226108546
+29 0
+0.0001
+258
+Counter({2: 47, 5: 34, 0: 29, 3: 26, 4: 26, 6: 24, 1: 21, 8: 19, 7: 18, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9221007309930875
+29 0
+0.0001
+287
+Counter({2: 56, 0: 40, 5: 35, 3: 29, 4: 26, 6: 26, 7: 21, 1: 21, 8: 19, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.926195111986077
+29 0
+0.0001
+316
+Counter({2: 63, 0: 42, 6: 36, 5: 36, 3: 34, 4: 26, 8: 23, 7: 21, 1: 21, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9128158980749188
+29 0
+0.0001
+345
+Counter({2: 71, 0: 52, 6: 41, 3: 39, 5: 36, 4: 26, 8: 24, 7: 21, 1: 21, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9110381786343459
+29 0
+0.0001
+374
+Counter({2: 79, 0: 56, 6: 46, 3: 44, 5: 39, 8: 28, 4: 26, 7: 21, 1: 21, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9118658636638439
+29 0
+0.0001
+403
+Counter({2: 86, 0: 65, 6: 54, 3: 44, 5: 42, 8: 28, 4: 28, 7: 21, 1: 21, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9060395326926683
+29 0
+0.0001
+432
+Counter({2: 90, 0: 77, 6: 61, 3: 46, 5: 42, 8: 30, 4: 30, 7: 21, 1: 21, 9: 14})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9117417898763123
+29 0
+0.0001
+461
+Counter({2: 91, 0: 87, 6: 70, 3: 48, 5: 46, 8: 32, 4: 30, 7: 21, 1: 21, 9: 15})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9093833579363566
+29 0
+0.0001
+490
+Counter({2: 97, 0: 89, 6: 73, 3: 50, 5: 50, 4: 36, 8: 34, 7: 24, 1: 21, 9: 16})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.8992772696297828
+29 0
+0.0001
+519
+Counter({2: 98, 0: 98, 6: 82, 5: 53, 3: 52, 4: 36, 8: 35, 7: 28, 1: 21, 9: 16})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9007256668310142
+29 0
+0.0001
+548
+Counter({2: 103, 0: 101, 6: 86, 3: 59, 5: 57, 8: 37, 4: 37, 7: 30, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8956190099849181
+29 0
+0.0001
+577
+Counter({2: 107, 0: 107, 6: 94, 3: 64, 5: 60, 8: 38, 4: 38, 7: 31, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8995105838218084
+29 0
+0.0001
+606
+Counter({0: 114, 2: 110, 6: 100, 3: 68, 5: 64, 8: 38, 4: 38, 7: 36, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.9007197542739884
+29 0
+0.0001
+635
+Counter({0: 125, 2: 114, 6: 103, 3: 69, 5: 65, 7: 43, 8: 40, 4: 38, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8955749262267223
+29 1
+0.9017019822234097 0.8991622348004344
+0.0001
+664
+Counter({0: 136, 2: 119, 6: 106, 3: 73, 5: 66, 8: 44, 7: 44, 4: 38, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8942460749586505
+29 0
+0.0001
+693
+Counter({0: 145, 2: 120, 6: 110, 3: 75, 5: 73, 8: 45, 7: 45, 4: 42, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.892426343361112
+29 0
+0.0001
+722
+Counter({0: 150, 2: 123, 6: 115, 5: 78, 3: 77, 7: 54, 8: 45, 4: 42, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8924467572254443
+29 0
+0.0001
+751
+Counter({0: 159, 2: 130, 6: 120, 3: 79, 5: 79, 7: 56, 8: 47, 4: 43, 1: 21, 9: 17})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.8936642057713318
+29 0
+0.0001
+780
+Counter({0: 171, 2: 132, 6: 125, 5: 80, 3: 79, 7: 64, 8: 47, 4: 43, 1: 21, 9: 18})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8953852380696741
+29 1
+0.9026284989093295 0.9007941930003925
+0.0001
+809
+Counter({0: 183, 2: 138, 6: 127, 5: 82, 3: 81, 7: 68, 8: 48, 4: 43, 1: 21, 9: 18})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8892071663023925
+29 0
+0.0001
+838
+Counter({0: 193, 2: 139, 6: 134, 3: 87, 5: 83, 7: 68, 8: 51, 4: 44, 1: 21, 9: 18})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8873463354948938
+29 0
+0.0001
+867
+Counter({0: 199, 6: 142, 2: 141, 3: 90, 5: 83, 7: 70, 8: 55, 4: 48, 1: 21, 9: 18})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.886628577057736
+29 0
+0.0001
+896
+Counter({0: 205, 2: 145, 6: 144, 3: 93, 5: 85, 7: 72, 8: 59, 4: 49, 9: 23, 1: 21})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.9183536928850371
+29 1
+0.9349380707511042 0.9404920052932811
+0.0001
+925
+Counter({0: 206, 2: 156, 6: 146, 3: 93, 5: 88, 7: 77, 8: 63, 4: 52, 9: 23, 1: 21})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8898305651806429
+29 2
+0.9004669935073315 0.9031891989500458
+0.0001
+954
+Counter({0: 209, 2: 165, 6: 152, 3: 95, 5: 88, 7: 80, 8: 65, 4: 56, 9: 23, 1: 21})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.79
+0.8855255783815698
+29 0
+0.0001
+983
+Counter({0: 210, 2: 168, 6: 153, 3: 99, 5: 93, 7: 83, 8: 65, 4: 65, 9: 26, 1: 21})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.80
+0.8894354965103728
+29 0
+0.0001
+1012
+Counter({0: 211, 2: 171, 6: 155, 3: 103, 5: 94, 7: 84, 4: 73, 8: 69, 9: 31, 1: 21})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.9172250460730909
+29 2
+0.9263264450038848 0.9190098185641595
+0.0001
+1041
+Counter({0: 211, 2: 173, 6: 155, 3: 112, 5: 97, 7: 88, 4: 76, 8: 71, 9: 31, 1: 27})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.8938568284527354
+29 1
+0.9100629869634682 0.9203573906389853
+0.0001
+1070
+Counter({0: 211, 2: 176, 6: 155, 3: 121, 7: 98, 5: 98, 4: 80, 8: 71, 9: 32, 1: 28})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.8898840854150736
+29 1
+0.9016402570338812 0.9094923891299285
+0.0001
+1099
+Counter({0: 212, 2: 180, 6: 155, 3: 123, 7: 104, 5: 100, 4: 86, 8: 76, 9: 33, 1: 30})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.882265781530724
+29 1
+0.8916488666300894 0.8933742599734635
+0.0001
+1128
+Counter({0: 212, 2: 182, 6: 155, 3: 127, 7: 110, 5: 102, 4: 90, 8: 80, 9: 38, 1: 32})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.8839598904239729
+29 0
+0.0001
+1157
+Counter({0: 213, 2: 184, 6: 159, 3: 127, 7: 116, 5: 102, 4: 90, 8: 80, 9: 46, 1: 40})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.8878090121724813
+29 0
+0.0001
+1186
+Counter({0: 213, 2: 186, 6: 161, 3: 127, 7: 120, 5: 102, 4: 93, 8: 80, 1: 52, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.8897049923231279
+29 0
+0.0001
+1215
+Counter({0: 213, 2: 187, 6: 161, 3: 127, 7: 122, 5: 104, 4: 97, 8: 83, 1: 69, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.8969431254737195
+29 0
+0.0001
+1244
+Counter({0: 213, 2: 187, 6: 161, 3: 127, 7: 123, 5: 104, 4: 97, 1: 96, 8: 84, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.9053526222961411
+29 0
+0.0001
+1273
+Counter({0: 213, 2: 187, 6: 161, 3: 127, 1: 125, 7: 123, 5: 104, 4: 97, 8: 84, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.9045011523705954
+29 0
+0.0001
+1302
+Counter({0: 213, 2: 187, 6: 161, 1: 154, 3: 127, 7: 123, 5: 104, 4: 97, 8: 84, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.9055814263660745
+29 0
+0.0001
+1331
+Counter({0: 213, 2: 187, 1: 183, 6: 161, 3: 127, 7: 123, 5: 104, 4: 97, 8: 84, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.9098494181797819
+29 0
+0.0001
+1360
+Counter({0: 213, 1: 212, 2: 187, 6: 161, 3: 127, 7: 123, 5: 104, 4: 97, 8: 84, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.891456217768552
+29 0
+0.0001
+1389
+Counter({1: 237, 0: 214, 2: 188, 6: 161, 3: 127, 7: 123, 5: 105, 4: 97, 8: 85, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.8919356230925105
+29 3
+0.9059089760188563 0.9124948817911269
+0.0001
+1418
+Counter({1: 256, 0: 214, 2: 190, 6: 161, 3: 127, 7: 123, 5: 106, 4: 101, 8: 88, 9: 52})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.81
+0.8904611168863715
+29 0
+0.0001
+1447
+Counter({1: 270, 0: 214, 2: 191, 6: 162, 7: 129, 3: 127, 5: 108, 4: 103, 8: 89, 9: 54})
+trained
+predicted
+score = 0.82
+0.8871707071500474
+29 0
+0.0001
+1476
+Counter({1: 278, 0: 216, 2: 191, 6: 162, 7: 132, 3: 129, 4: 109, 5: 108, 8: 91, 9: 60})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.82
+0.886423398335398
+29 0
+0.0001
+1505
+Counter({1: 285, 0: 217, 2: 192, 6: 162, 7: 134, 3: 132, 4: 116, 5: 109, 8: 94, 9: 64})
+trained
+predicted
+score = 0.82
+0.886250069118361
+29 4
+0.8987984295244192 0.9032525719811108
+0.0001
+1534
+Counter({1: 292, 0: 217, 2: 193, 6: 162, 7: 139, 3: 133, 4: 124, 5: 111, 8: 96, 9: 67})
+trained
+predicted
+score = 0.82
+0.8860146830476879
+29 3
+0.8951602152580608 0.9142653696834167
+0.0001
+1563
+Counter({1: 295, 0: 217, 2: 195, 6: 162, 7: 142, 3: 133, 4: 131, 5: 114, 8: 100, 9: 74})
+trained
+predicted
+score = 0.83
+0.8800914332206632
+29 0
+0.0001
+1592
+Counter({1: 295, 0: 218, 2: 198, 6: 162, 7: 145, 4: 141, 3: 134, 5: 115, 8: 101, 9: 83})
+trained
+predicted
+score = 0.83
+0.8813089091120114
+29 1
+0.8929145652469475 0.882824525929574
+0.0001
+1621
+Counter({1: 295, 0: 219, 2: 198, 6: 162, 7: 152, 4: 149, 3: 134, 5: 118, 8: 103, 9: 91})
+trained
+predicted
+score = 0.83
+0.8836319975903091
+29 1
+0.8957954054138211 0.8896468044553625
+0.0001
+1650
+Counter({1: 295, 0: 219, 2: 200, 6: 164, 7: 155, 4: 153, 3: 135, 5: 118, 8: 108, 9: 103})
+trained
+predicted
+score = 0.83
+0.8781588716439473
+29 2
+0.8910492201745904 0.9133792552954748
+0.0001
+1679
+Counter({1: 296, 0: 220, 2: 200, 6: 167, 7: 163, 4: 156, 3: 137, 5: 122, 8: 112, 9: 106})
+trained
+predicted
+score = 0.83
+0.8794370347668374
+29 1
+0.8896540850350702 0.8997988423337597
+0.0001
+1708
+Counter({1: 296, 0: 223, 2: 201, 6: 171, 7: 167, 4: 160, 3: 137, 5: 122, 8: 116, 9: 115})
+trained
+predicted
+score = 0.83
+0.8781338574578441
+29 3
+0.8908458883804955 0.892971608619379
+0.0001
+1737
+Counter({1: 296, 0: 223, 2: 202, 6: 178, 7: 171, 4: 163, 3: 137, 9: 125, 5: 124, 8: 118})
+trained
+predicted
+score = 0.83
+0.8783755599670737
+29 2
+0.8947970222314089 0.8904074852666765
+0.0001
+1766
+Counter({1: 296, 0: 224, 2: 203, 6: 183, 7: 182, 4: 166, 3: 138, 9: 132, 5: 124, 8: 118})
+trained
+predicted
+score = 0.83
+0.8778721035641509
+29 1
+0.8873862023970103 0.8779277822993773
+0.0001
+1795
+Counter({1: 298, 0: 227, 2: 203, 7: 187, 6: 187, 4: 168, 3: 139, 9: 134, 5: 128, 8: 124})
+trained
+predicted
+score = 0.83
+0.8723526880139826
+29 4
+0.8830758214462137 0.8969651894990545
+0.0001
+1824
+Counter({1: 300, 0: 228, 2: 204, 7: 192, 6: 190, 4: 169, 3: 142, 9: 137, 5: 132, 8: 130})
+trained
+predicted
+score = 0.83
+0.8667421742479722
+29 4
+0.8824637053947795 0.8972692424465016
+0.0001
+1853
+Counter({1: 302, 0: 228, 2: 210, 7: 194, 6: 191, 4: 170, 3: 145, 9: 144, 5: 137, 8: 132})
+trained
+predicted
+score = 0.83
+0.8714744505753671
+29 6
+0.8858973988039454 0.9161770161086765
+0.0001
+1882
+Counter({1: 304, 0: 228, 2: 212, 7: 194, 6: 191, 4: 175, 9: 155, 3: 147, 5: 139, 8: 137})
+trained
+predicted
+score = 0.83
+0.8705449887163406
+29 4
+0.8810115572548292 0.8837469568526977
+0.0001
+1911
+Counter({1: 306, 0: 230, 2: 213, 6: 196, 7: 195, 4: 177, 9: 166, 3: 147, 5: 142, 8: 139})
+trained
+predicted
+score = 0.83
+0.9074517835398225
+29 1
+0.9244326055161446 0.942479675934039
+0.0001
+1940
+Counter({1: 306, 0: 231, 2: 217, 7: 199, 6: 196, 4: 180, 9: 177, 3: 152, 5: 142, 8: 140})
+trained
+predicted
+score = 0.84
+0.8950612218211285
+29 3
+0.9125976785107976 0.9140778739319934
+0.0001
+1969
+Counter({1: 306, 0: 233, 2: 220, 7: 201, 6: 197, 9: 190, 4: 183, 3: 156, 5: 143, 8: 140})
+trained
+predicted
+score = 0.84
+0.8835404607701128
+29 4
+0.9054357564799659 0.9304441190745302
+0.0001
+1998
+Counter({1: 306, 0: 236, 2: 221, 9: 203, 7: 202, 6: 198, 4: 189, 3: 158, 5: 145, 8: 140})
+trained
+predicted
+score = 0.83
+0.8828744045564542
+29 4
+0.9002187953589982 0.9117295600143706
+0.0001
+2027
+Counter({1: 306, 0: 237, 2: 224, 9: 218, 7: 204, 6: 198, 4: 195, 3: 160, 5: 145, 8: 140})
+trained
+predicted
+score = 0.83
+0.8729622461611344
+29 5
+0.8908827028151219 0.8922737112778714
+0.0001
+2056
+Counter({1: 306, 0: 237, 9: 227, 2: 225, 7: 208, 6: 203, 4: 201, 3: 164, 5: 145, 8: 140})
+trained
+predicted
+score = 0.83
+0.8639208557148059
+29 8
+0.8811866489924405 0.8798336646336009
+0.0001
+2085
+Counter({1: 308, 0: 240, 9: 233, 2: 229, 7: 209, 4: 209, 6: 207, 3: 164, 5: 145, 8: 141})
+trained
+predicted
+score = 0.84
+0.8543933067959305
+29 11
+0.8777361391923544 0.8735414357527541
+0.0001
+2114
+Counter({1: 310, 0: 241, 9: 238, 2: 232, 4: 220, 7: 211, 6: 207, 3: 166, 5: 147, 8: 142})
+trained
+predicted
+score = 0.84
+0.8545711784327051
+29 5
+0.8685231424951017 0.8646047275621642
+0.0001
+2143
+Counter({1: 311, 9: 245, 0: 241, 2: 237, 4: 226, 7: 211, 6: 208, 3: 167, 5: 151, 8: 146})
+trained
+predicted
+score = 0.84
+0.8493806810676263
+29 6
+0.8664978613141087 0.8616628061149952
+0.0001
+2172
+Counter({1: 311, 9: 253, 0: 243, 2: 241, 4: 230, 7: 214, 6: 210, 3: 167, 5: 154, 8: 149})
+trained
+predicted
+score = 0.84
+0.8456557488642703
+29 10
+0.8656347302853807 0.8712554883215493
+0.0001
+2201
+Counter({1: 311, 9: 260, 0: 245, 2: 241, 4: 237, 7: 218, 6: 211, 3: 168, 5: 158, 8: 152})
+trained
+predicted
+score = 0.84
+0.8274254869279898
+29 8
+0.8551994919368524 0.846765728243748
+0.0001
+2230
+Counter({1: 312, 9: 270, 0: 245, 2: 243, 4: 240, 7: 220, 6: 212, 3: 172, 5: 161, 8: 155})
+trained
+predicted
+score = 0.84
+0.8253029923696336
+29 7
+0.8441654472870203 0.84969592864666
+0.0001
+2259
+Counter({1: 314, 9: 276, 0: 247, 4: 245, 2: 244, 7: 221, 6: 214, 3: 177, 5: 163, 8: 158})
+trained
+predicted
+score = 0.84
+0.8168810081779047
+29 3
+0.8357943824106305 0.8193212554094688
+0.0001
+2288
+Counter({1: 314, 9: 277, 4: 252, 0: 249, 2: 245, 7: 224, 6: 221, 3: 179, 5: 164, 8: 163})
+trained
+predicted
+score = 0.85
+0.812731789679849
+29 5
+0.8454454644149484 0.8393210436089674
+0.0001
+2317
+Counter({1: 315, 9: 281, 4: 257, 0: 252, 2: 246, 6: 227, 7: 226, 3: 181, 8: 167, 5: 165})
+trained
+predicted
+score = 0.84
+0.8094754090666796
+29 9
+0.839074908685775 0.8282244558380822
+0.0001
+2346
+Counter({1: 319, 9: 284, 4: 263, 0: 254, 2: 246, 6: 233, 7: 231, 3: 182, 8: 168, 5: 166})
+trained
+predicted
+score = 0.84
+0.7973936597332646
+29 12
+0.8293966848211387 0.8312171030568689
+0.0001
+2375
+Counter({1: 321, 9: 287, 4: 269, 0: 255, 2: 246, 6: 237, 7: 235, 3: 185, 8: 173, 5: 167})
+trained
+predicted
+score = 0.84
+0.7782683398395417
+29 9
+0.8236508118493076 0.8212669697642725
+0.0001
+2404
+Counter({1: 321, 9: 290, 4: 277, 0: 255, 2: 248, 7: 240, 6: 238, 3: 188, 8: 180, 5: 167})
+trained
+predicted
+score = 0.84
+0.7620723126650689
+29 11
+0.798752882479339 0.796498954361072
+0.0001
+2433
+Counter({1: 322, 9: 295, 4: 280, 0: 257, 2: 253, 7: 242, 6: 239, 3: 191, 8: 184, 5: 170})
+trained
+predicted
+score = 0.84
+0.760266640394386
+29 10
+0.7962227413878681 0.7881820556352653
+0.0001
+2462
+Counter({1: 323, 9: 301, 4: 281, 0: 259, 2: 257, 7: 245, 6: 240, 3: 194, 8: 190, 5: 172})
+trained
+predicted
+score = 0.84
+0.7425325267617099
+29 10
+0.7728232505790118 0.7756248628905746
+0.0001
+2491
+Counter({1: 323, 9: 307, 4: 282, 2: 262, 0: 261, 7: 246, 6: 240, 3: 199, 8: 195, 5: 176})
+trained
+predicted
+score = 0.85
+0.736823379000956
+29 8
+0.7608601080140739 0.7714802947860934
+0.0001
+2520
+Counter({1: 326, 9: 313, 4: 284, 2: 263, 0: 261, 7: 247, 6: 241, 8: 200, 3: 200, 5: 185})
+trained
+predicted
+score = 0.84
+0.7488579744307582
+29 10
+0.7999200456297922 0.8143315306777337
+0.0001
+2549
+Counter({1: 330, 9: 316, 4: 286, 2: 264, 0: 261, 7: 248, 6: 242, 8: 205, 3: 204, 5: 193})
+trained
+predicted
+score = 0.84
+0.7420245359030163
+29 13
+0.803111027969192 0.7848119357210182
+0.0001
+2578
+Counter({1: 334, 9: 319, 4: 287, 2: 266, 0: 261, 7: 250, 6: 245, 8: 208, 3: 206, 5: 202})
+trained
+predicted
+score = 0.84
+0.7333626116074823
+29 9
+0.7805231962037775 0.7601687337256966
+0.0001
+2607
+Counter({1: 335, 9: 320, 4: 293, 2: 268, 0: 261, 7: 253, 6: 248, 8: 211, 3: 210, 5: 208})
+trained
+predicted
+score = 0.84
+0.6936635313481615
+29 6
+0.7504713597565014 0.8013989541279289
+0.0001
+2636
+Counter({1: 337, 9: 321, 4: 296, 2: 271, 0: 264, 7: 254, 6: 251, 5: 218, 8: 213, 3: 211})
+trained
+predicted
+score = 0.84
+0.6811300137474763
+29 5
+0.732841055570488 0.722433030819641
+0.0001
+2665
+Counter({1: 337, 9: 326, 4: 298, 2: 274, 0: 268, 6: 255, 7: 254, 5: 223, 8: 216, 3: 214})
+trained
+predicted
+score = 0.84
+0.6620395693177289
+29 7
+0.718808664476443 0.7264532922490815
+0.0001
+2694
+Counter({1: 337, 9: 333, 4: 299, 2: 282, 0: 270, 6: 259, 7: 254, 5: 224, 3: 219, 8: 217})
+trained
+predicted
+score = 0.84
+0.6404044025162234
+29 11
+0.6985123230614692 0.6909916549261991
+0.0001
+2723
+Counter({1: 338, 9: 337, 4: 301, 2: 287, 0: 272, 6: 262, 7: 256, 5: 228, 3: 222, 8: 220})
+trained
+predicted
+score = 0.85
+0.6304900636055378
+29 13
+0.725870021990666 0.6799643161774084
+0.0001
+2752
+Counter({1: 342, 9: 340, 4: 304, 2: 289, 0: 278, 6: 265, 7: 257, 5: 231, 3: 225, 8: 221})
+trained
+predicted
+score = 0.84
+0.5945546335877693
+29 15
+0.6465546563189836 0.668064145050461
+0.0001
+2781
+Counter({1: 346, 9: 342, 4: 306, 2: 295, 0: 282, 6: 267, 7: 258, 5: 233, 3: 227, 8: 225})
+trained
+predicted
+score = 0.84
+0.5543392885526104
+29 15
+0.6177813824612501 0.6394511959288647
+0.0001
+2810
+Counter({1: 349, 9: 344, 4: 308, 2: 300, 0: 286, 6: 270, 7: 260, 5: 237, 3: 230, 8: 226})
+trained
+predicted
+score = 0.84
+0.5121618326864706
+29 14
+0.5767134457050412 0.5970788714309644
+0.0001
+2839
+Counter({1: 351, 9: 344, 4: 311, 2: 303, 0: 289, 6: 271, 7: 263, 5: 240, 3: 236, 8: 231})
+trained
+predicted
+score = 0.84
+0.4761448625887202
+29 18
+0.5284257506287616 0.5330731508661626
+0.0001
+2868
+Counter({1: 352, 9: 347, 4: 312, 2: 305, 0: 292, 6: 272, 7: 265, 5: 246, 3: 243, 8: 234})
+trained
+predicted
+score = 0.84
+0.4295715708337471
+29 19
+0.5078976547612051 0.5006928819793056
+0.0001
+2897
+Counter({1: 353, 9: 350, 4: 315, 2: 307, 0: 294, 6: 274, 7: 266, 5: 250, 3: 247, 8: 241})
+trained
+predicted
+score = 0.84
+0.3998027910589227
+29 20
+0.45850902778995717 0.5003529071251729
+0.0001
+2926
+Counter({1: 356, 9: 353, 4: 319, 2: 311, 0: 295, 6: 275, 7: 269, 5: 254, 3: 250, 8: 244})
+trained
+predicted
+score = 0.82
+0.3556464670394744
+29 15
+0.43135081796055263 0.4487108588439849
+0.0001
+2955
+Counter({1: 358, 9: 356, 4: 320, 2: 313, 0: 299, 6: 277, 7: 274, 5: 257, 3: 254, 8: 247})
+

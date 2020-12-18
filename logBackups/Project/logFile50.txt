@@ -1,0 +1,710 @@
+0.0001
+50
+Counter({3: 9, 0: 8, 4: 7, 8: 5, 2: 5, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.8456622366880718
+29 16
+0.8803602134481814 0.8566450162177729
+0.0001
+79
+Counter({2: 22, 0: 19, 3: 9, 4: 7, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.7967447325804371
+29 0
+0.0001
+108
+Counter({0: 47, 2: 22, 3: 10, 4: 7, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.7996208784167762
+29 0
+0.0001
+137
+Counter({0: 76, 2: 22, 3: 10, 4: 7, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.8026045711232493
+29 1
+0.8324160194142741 0.8038862271513896
+0.0001
+166
+Counter({0: 103, 2: 22, 3: 12, 4: 7, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.8416236931411106
+29 3
+0.8726266537948882 0.8572544941486547
+0.0001
+195
+Counter({0: 128, 2: 22, 3: 13, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.8251668806785759
+29 3
+0.874662248028683 0.867854888029053
+0.0001
+224
+Counter({0: 157, 2: 22, 3: 13, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.8070961618110617
+29 5
+0.8337598712766802 0.8524864668080017
+0.0001
+253
+Counter({0: 186, 2: 22, 3: 13, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.60
+0.7974988484226071
+29 2
+0.8401349891130403 0.8118968902525159
+0.0001
+282
+Counter({0: 215, 2: 22, 3: 13, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.59
+0.7758300657695678
+29 6
+0.8166607242875629 0.8234380428512758
+0.0001
+311
+Counter({0: 240, 2: 26, 3: 13, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.59
+0.8002914839172925
+29 6
+0.8311457242124105 0.8533284005787197
+0.0001
+340
+Counter({0: 262, 2: 29, 3: 17, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.59
+0.797217081430698
+29 13
+0.8185273509667513 0.8375737715106516
+0.0001
+369
+Counter({0: 285, 2: 30, 3: 22, 4: 10, 8: 6, 1: 4, 6: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.58
+0.8188333306281413
+29 10
+0.8448938341125303 0.8549215112396589
+0.0001
+398
+Counter({0: 303, 2: 31, 3: 22, 6: 14, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.58
+0.8345375079321982
+29 5
+0.860375823596783 0.8647064320953541
+0.0001
+427
+Counter({0: 318, 2: 34, 3: 33, 6: 14, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.58
+0.8419323732411121
+29 6
+0.8645086968950227 0.8708851516664148
+0.0001
+456
+Counter({0: 331, 3: 43, 2: 36, 6: 18, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.57
+0.8392992285366313
+29 6
+0.8549799697260702 0.8505246747187166
+0.0001
+485
+Counter({0: 344, 3: 56, 2: 36, 6: 21, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.57
+0.8155663832888221
+29 9
+0.842330141193884 0.8346758396131287
+0.0001
+514
+Counter({0: 354, 3: 72, 2: 39, 6: 21, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.56
+0.8392141530265261
+29 5
+0.8576484183848594 0.8568137037500495
+0.0001
+543
+Counter({0: 360, 3: 91, 2: 40, 6: 24, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.56
+0.8418880049325496
+29 15
+0.8594586178898799 0.8639317033303302
+0.0001
+572
+Counter({0: 377, 3: 101, 2: 40, 6: 26, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.56
+0.8387115565131951
+29 14
+0.8640823740797468 0.8578187623065338
+0.0001
+601
+Counter({0: 388, 3: 119, 2: 40, 6: 26, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.55
+0.8516144390862678
+29 14
+0.8729716251388553 0.8730189367860205
+0.0001
+630
+Counter({0: 399, 3: 137, 2: 40, 6: 26, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.54
+0.8513970620209322
+29 8
+0.8721702837369959 0.8740147413781899
+0.0001
+659
+Counter({0: 405, 3: 155, 2: 40, 6: 31, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.54
+0.8492716068766906
+29 10
+0.8655381648756569 0.8678414015879958
+0.0001
+688
+Counter({0: 410, 3: 176, 2: 40, 6: 34, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.54
+0.8459491123903208
+29 14
+0.8743225818949981 0.866223120841614
+0.0001
+717
+Counter({0: 418, 3: 197, 2: 40, 6: 34, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.54
+0.8383836661089478
+29 18
+0.8674731205820359 0.8697811496170261
+0.0001
+746
+Counter({0: 425, 3: 218, 2: 40, 6: 35, 4: 10, 8: 6, 1: 4, 7: 3, 5: 3, 9: 2})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 2 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.53
+0.8480892189791688
+29 16
+0.8617405373761156 0.8683977314701985
+0.0001
+775
+Counter({0: 432, 3: 231, 6: 43, 2: 40, 4: 10, 8: 6, 1: 4, 7: 3, 9: 3, 5: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.9307401022876768
+29 7
+0.9758654092317134 0.9643266909177022
+0.0001
+804
+Counter({0: 432, 3: 231, 6: 43, 2: 40, 5: 32, 4: 10, 8: 6, 1: 4, 7: 3, 9: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.53
+0.8704368886077316
+29 21
+0.9024210564897891 0.8930768607231737
+0.0001
+833
+Counter({0: 445, 3: 243, 6: 44, 2: 40, 5: 34, 4: 11, 8: 6, 1: 4, 7: 3, 9: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.8585094642549935
+29 22
+0.8828259115164531 0.8885779726177596
+0.0001
+862
+Counter({0: 458, 3: 253, 6: 49, 2: 40, 5: 34, 4: 11, 8: 6, 7: 4, 1: 4, 9: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.51
+0.943521598308509
+29 5
+0.9746338231750299 0.9778192384149247
+0.0001
+891
+Counter({0: 458, 3: 253, 6: 49, 2: 40, 5: 34, 7: 33, 4: 11, 8: 6, 1: 4, 9: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.8894501322424948
+29 11
+0.9361363690339523 0.8984642481201809
+0.0001
+920
+Counter({0: 464, 3: 257, 7: 51, 6: 49, 2: 40, 5: 34, 4: 12, 8: 6, 1: 4, 9: 3})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 3 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.8741858191308743
+29 14
+0.8926861362852967 0.8885306170380743
+0.0001
+949
+Counter({0: 470, 3: 271, 7: 57, 6: 51, 2: 40, 5: 34, 4: 12, 8: 6, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.8589302751670197
+29 11
+0.8790744964911673 0.8727619021916446
+0.0001
+978
+Counter({0: 473, 3: 283, 7: 57, 6: 55, 2: 42, 5: 34, 4: 20, 8: 6, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.51
+0.8667145534809426
+29 12
+0.8805961692639445 0.8858732009663571
+0.0001
+1007
+Counter({0: 479, 3: 294, 7: 63, 6: 61, 2: 42, 5: 34, 4: 20, 8: 6, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.52
+0.86719214656923
+29 19
+0.8892913072990384 0.886040414242183
+0.0001
+1036
+Counter({0: 486, 3: 308, 7: 66, 6: 63, 2: 43, 5: 34, 4: 22, 8: 6, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.52
+0.8753149254986518
+29 18
+0.885036611011223 0.893673648076802
+0.0001
+1065
+Counter({0: 492, 3: 324, 7: 69, 6: 66, 2: 43, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.51
+0.8730938646813796
+29 14
+0.8892485585367108 0.8958007225981481
+0.0001
+1094
+Counter({0: 499, 3: 338, 7: 73, 6: 70, 2: 43, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.51
+0.873082310578396
+29 21
+0.8848817888305403 0.8951202665684402
+0.0001
+1123
+Counter({0: 507, 3: 352, 7: 75, 6: 75, 2: 43, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.50
+0.8785846686733234
+29 22
+0.8916285091248956 0.9060729578353738
+0.0001
+1152
+Counter({0: 515, 3: 366, 6: 79, 7: 78, 2: 43, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.50
+0.8714774183340024
+29 23
+0.8766982938737211 0.8923248387899838
+0.0001
+1181
+Counter({0: 522, 3: 383, 7: 82, 6: 79, 2: 44, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.50
+0.8894583792183773
+29 28
+0.8905674420697611 0.9144099678249801
+0.0001
+1210
+Counter({0: 524, 3: 410, 7: 82, 6: 79, 2: 44, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.49
+0.8823323860816941
+29 23
+0.8893051327244857 0.9110023474792684
+0.0001
+1239
+Counter({0: 526, 3: 434, 7: 84, 6: 80, 2: 44, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_search.py:841: DeprecationWarning: The default of the `iid` parameter will change from True to False in version 0.22 and will be removed in 0.24. This will change numeric results when test-set sizes are unequal.
+  DeprecationWarning)
+trained
+predicted
+score = 0.49
+0.8871735714403943
+29 26
+0.8979001826543097 0.9058897705502704
+0.0001
+1268
+Counter({0: 530, 3: 457, 7: 85, 6: 80, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.48
+0.88662239652551
+29 28
+0.9020553478778622 0.9084770945607558
+0.0001
+1297
+Counter({0: 535, 3: 481, 7: 85, 6: 80, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.48
+0.8852926041367154
+29 25
+0.8932814239123452 0.908746120038336
+0.0001
+1326
+Counter({0: 537, 3: 504, 7: 88, 6: 81, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.48
+0.8816211098692519
+29 22
+0.9042554419889685 0.9025879352310465
+0.0001
+1355
+Counter({0: 539, 3: 530, 7: 89, 6: 81, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.48
+0.8828510163648001
+29 24
+0.8953344937853274 0.9057515029976954
+0.0001
+1384
+Counter({0: 549, 3: 546, 7: 91, 6: 82, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.47
+0.8887742900065736
+29 23
+0.9093046994489069 0.9038808163384635
+0.0001
+1413
+Counter({3: 569, 0: 554, 7: 92, 6: 82, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.46
+0.8863789830615656
+29 28
+0.9048536745403185 0.9069789935148381
+0.0001
+1442
+Counter({3: 593, 0: 559, 7: 92, 6: 82, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.45
+0.8887869600059144
+29 25
+0.8933468128295105 0.9063685666398557
+0.0001
+1471
+Counter({3: 614, 0: 563, 7: 93, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.45
+0.8919080592862152
+29 27
+0.9015093830378643 0.9093088152962852
+0.0001
+1500
+Counter({3: 635, 0: 569, 7: 95, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.44
+0.8943242110560539
+29 27
+0.913980310590657 0.910771289493191
+0.0001
+1529
+Counter({3: 659, 0: 574, 7: 95, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.43
+0.8916766327269757
+29 26
+0.8967090286316358 0.9071318422266758
+0.0001
+1558
+Counter({3: 683, 0: 577, 7: 97, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.42
+0.9159261315361976
+29 26
+0.9238663253678235 0.9253344813817626
+0.0001
+1587
+Counter({3: 712, 0: 577, 7: 97, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.42
+0.908251298547509
+29 26
+0.9199101875720782 0.9239099291239701
+0.0001
+1616
+Counter({3: 739, 0: 579, 7: 97, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.41
+0.907027742537463
+29 28
+0.9296110751574228 0.9237431742162668
+0.0001
+1645
+Counter({3: 768, 0: 579, 7: 97, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.41
+0.907534848516796
+29 27
+0.9189435352087658 0.9250912688568389
+0.0001
+1674
+Counter({3: 797, 0: 579, 7: 97, 6: 85, 2: 45, 5: 34, 4: 22, 8: 7, 1: 4, 9: 4})
+/home/fenics/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py:652: Warning: The least populated class in y has only 4 members, which is too few. The minimum number of members in any class cannot be less than n_splits=5.
+  % (min_groups, self.n_splits)), Warning)
+trained
+predicted
+score = 0.41
+0.9567096710867187
+29 29
+Traceback (most recent call last):
+  File "s3vm.py", line 149, in <module>
+    print(sm2/(a-b), sm1/b)
+ZeroDivisionError: division by zero
